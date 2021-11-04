@@ -19,7 +19,7 @@
       "ammount": 304001,
       "principal": false,
       "check": false,
-      "precentage": 25
+      "percentage": 25
     },
     {
       "id": "2",
@@ -28,7 +28,7 @@
       "ammount": 4550000,
       "principal": false,
       "check": true,
-      "precentage": 74
+      "percentage": 74
     },
     {
       "id": "5",
@@ -37,7 +37,7 @@
       "ammount": 3260000,
       "principal": false,
       "check": false,
-      "precentage": 0
+      "percentage": 0
     },
     {
       "id": "7",
@@ -47,7 +47,7 @@
       "units": "",
       "principal": false,
       "check": false,
-      "precentage": 64.2
+      "percentage": 64.2
     },
     {
       "id": "8",
@@ -57,7 +57,7 @@
       "units": "",
       "principal": false,
       "check": false,
-      "precentage": 5.9
+      "percentage": 5.9
     },
     {
       "id": "9",
@@ -66,7 +66,7 @@
       "ammount": 6750000,
       "principal": true,
       "check": false,
-      "precentage": 0
+      "percentage": 0
     },
     {
       "id": "10",
@@ -75,7 +75,7 @@
       "units": 44800,
       "principal": false,
       "check": true,
-      "precentage": 65.55
+      "percentage": 65.55
     },
     {
       "id": "11",
@@ -84,7 +84,7 @@
       "units": 7750,
       "principal": false,
       "check": true,
-      "precentage": 95
+      "percentage": 95
     },
     {
       "id": "23",
@@ -93,7 +93,7 @@
       "units": 252000,
       "principal": false,
       "check": false,
-      "precentage": 137.95
+      "percentage": 137.95
     },
     {
       "id": "24",
@@ -102,7 +102,7 @@
       "ammount": 745000,
       "principal": false,
       "check": false,
-      "precentage": 11
+      "percentage": 11
     },
     {
       "id": "25",
@@ -111,7 +111,7 @@
       "units": 336000,
       "principal": false,
       "check": true,
-      "precentage": 0
+      "percentage": 0
     }
   ],
   "families": [
