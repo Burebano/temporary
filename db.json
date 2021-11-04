@@ -64,7 +64,7 @@
       "url": "la-vieja-fabrica",
       "name": "La Vieja Fábrica",
       "ammount": 6650000,
-      "principal": true,
+      "principal": false,
       "check": true,
       "precentage": 0
     },
@@ -83,7 +83,7 @@
       "name": "Incarlopsa",
       "units": 7750,
       "principal": false,
-      "check": false,
+      "check": true,
       "precentage": 95
     },
     {
