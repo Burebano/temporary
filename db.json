@@ -18,7 +18,7 @@
       "name": "El Granero Integral",
       "ammount": 354000,
       "principal": false,
-      "check": true,
+      "check": false,
       "precentage": 25
     },
     {
@@ -36,7 +36,7 @@
       "name": "Tab",
       "ammount": 3260000,
       "principal": false,
-      "check": true,
+      "check": false,
       "precentage": 0
     },
     {
@@ -46,7 +46,7 @@
       "ammount": 8565000,
       "units": "",
       "principal": false,
-      "check": true,
+      "check": false,
       "precentage": 64.2
     },
     {
@@ -83,7 +83,7 @@
       "name": "Incarlopsa",
       "units": 7750,
       "principal": false,
-      "check": true,
+      "check": false,
       "precentage": 95
     },
     {
@@ -92,7 +92,7 @@
       "name": "Provamel",
       "units": 252000,
       "principal": false,
-      "check": true,
+      "check": false,
       "precentage": 137.95
     },
     {
@@ -101,7 +101,7 @@
       "name": "Weetabix",
       "ammount": 745000,
       "principal": false,
-      "check": true,
+      "check": false,
       "precentage": 11
     },
     {
