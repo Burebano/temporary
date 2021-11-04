@@ -1,0 +1,167 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "usuario": "Nombre de usario",
+      "email": "nombre@dominio.com"
+    },
+    {
+      "id": 3,
+      "usuario": "Nombre de usario 2",
+      "email": "nombre@dominio.es"
+    }
+  ],
+  "objectives": [
+    {
+      "id": "1",
+      "url": "el-granero-integral",
+      "name": "El Granero Integral",
+      "ammount": 354000,
+      "principal": false,
+      "check": true,
+      "precentage": 25
+    },
+    {
+      "id": "2",
+      "url": "la-finestra-sul-cielo",
+      "name": "La Finestra sul Cielo",
+      "ammount": 4550000,
+      "principal": false,
+      "check": true,
+      "precentage": 74
+    },
+    {
+      "id": "5",
+      "url": "tab",
+      "name": "Tab",
+      "ammount": 3260000,
+      "principal": false,
+      "check": true,
+      "precentage": 0
+    },
+    {
+      "id": "7",
+      "url": "mare-rosso-bitter-rosso",
+      "name": "Mare Rosso. Bitter Rosso",
+      "ammount": 8565000,
+      "units": "",
+      "principal": false,
+      "check": true,
+      "precentage": 64.2
+    },
+    {
+      "id": "8",
+      "url": "hellmanns",
+      "name": "Hellmann's",
+      "ammount": 741000,
+      "units": "",
+      "principal": false,
+      "check": false,
+      "precentage": 5.9
+    },
+    {
+      "id": "9",
+      "url": "la-vieja-fabrica",
+      "name": "La Vieja Fábrica",
+      "ammount": 6650000,
+      "principal": true,
+      "check": true,
+      "precentage": 0
+    },
+    {
+      "id": "10",
+      "url": "gerble",
+      "name": "Gerblé",
+      "units": 44800,
+      "principal": false,
+      "check": true,
+      "precentage": 65.55
+    },
+    {
+      "id": "11",
+      "url": "incarlopsa",
+      "name": "Incarlopsa",
+      "units": 7750,
+      "principal": false,
+      "check": true,
+      "precentage": 95
+    },
+    {
+      "id": "23",
+      "url": "provamel",
+      "name": "Provamel",
+      "units": 252000,
+      "principal": false,
+      "check": true,
+      "precentage": 137.95
+    },
+    {
+      "id": "24",
+      "url": "weetabix",
+      "name": "Weetabix",
+      "ammount": 745000,
+      "principal": false,
+      "check": true,
+      "precentage": 11
+    },
+    {
+      "id": "25",
+      "url": "minute-maid",
+      "name": "Minute Maid",
+      "units": 336000,
+      "principal": false,
+      "check": true,
+      "precentage": 0
+    }
+  ],
+  "families": [
+    {
+      "id": "1",
+      "url": "maracuya",
+      "name": "Maracuyá",
+      "units": 23300
+    },
+    {
+      "id": "2",
+      "url": "zarzamora",
+      "name": "Zarzamora",
+      "units": 885000
+    },
+    {
+      "id": "3",
+      "url": "zarzamora-arbol",
+      "name": "Zarzamora de árbol",
+      "units": 471000
+    },
+    {
+      "id": "5",
+      "url": "membrillo",
+      "name": "Membrillo",
+      "ammount": 36600000
+    },
+    {
+      "id": "6",
+      "url": "aguacate",
+      "name": "Aguacate",
+      "ammount": 4450000
+    },
+    {
+      "id": "7",
+      "url": "cereza",
+      "name": "Cereza",
+      "ammount": 2220000
+    },
+    {
+      "id": "15",
+      "url": "nuez",
+      "name": "Nuez",
+      "ammount": 5890000
+    },
+    {
+      "id": "132",
+      "url": "manzana",
+      "name": "Manzana",
+      "ammount": 510000
+    }
+  ]
+}
