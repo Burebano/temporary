@@ -64,8 +64,8 @@
       "url": "la-vieja-fabrica",
       "name": "La Vieja Fábrica",
       "ammount": 6650000,
-      "principal": false,
-      "check": true,
+      "principal": true,
+      "check": false,
       "precentage": 0
     },
     {
