@@ -3,12 +3,14 @@
     {
       "id": 1,
       "usuario": "Nombre de usario",
-      "email": "nombre@dominio.com"
+      "email": "nombre@dominio.com",
+      "password": "password"
     },
     {
       "id": 3,
       "usuario": "Nombre de usario 2",
-      "email": "nombre@dominio.es"
+      "email": "nombre@dominio.es",
+      "password": "password"
     }
   ],
   "objectives": [
