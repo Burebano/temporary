@@ -57,7 +57,7 @@
       "name": "Bosch",
       "ammount": 741000,
       "units": "",
-      "principal": false,
+      "principal": true,
       "check": true,
       "percentage": 5.9
     },
@@ -66,7 +66,7 @@
       "url": "dayco",
       "name": "Dayco",
       "ammount": 6750000,
-      "principal": true,
+      "principal": false,
       "check": false,
       "percentage": 0
     },
