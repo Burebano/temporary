@@ -164,6 +164,30 @@
       "url": "fluid-matic",
       "name": "Fluid Matic",
       "ammount": 510000
+    },
+    {
+      "id": "133",
+      "url": "espejos-retrovisores",
+      "name": "Espejos retrovisores",
+      "ammount": 50000
+    },
+    {
+      "id": "134",
+      "url": "iluminacion",
+      "name": "Iluminación",
+      "ammount": 610000
+    },
+    {
+      "id": "135",
+      "url": "frenos",
+      "name": "Frenos",
+      "ammount": 180000
+    },
+    {
+      "id": "136",
+      "url": "plasticos",
+      "name": "Plásticos",
+      "ammount": 265000
     }
   ]
 }
