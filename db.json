@@ -20,7 +20,7 @@
       "name": "Valeo",
       "ammount": 304001,
       "principal": false,
-      "check": false,
+      "check": true,
       "percentage": 25
     },
     {
@@ -38,7 +38,7 @@
       "name": "ZF",
       "ammount": 3260000,
       "principal": false,
-      "check": false,
+      "check": true,
       "percentage": 0
     },
     {
@@ -58,7 +58,7 @@
       "ammount": 741000,
       "units": "",
       "principal": false,
-      "check": false,
+      "check": true,
       "percentage": 5.9
     },
     {
@@ -76,7 +76,7 @@
       "name": "Jumasa",
       "units": 44800,
       "principal": false,
-      "check": true,
+      "check": false,
       "percentage": 65.55
     },
     {
@@ -85,7 +85,7 @@
       "name": "KYB",
       "units": 7750,
       "principal": false,
-      "check": true,
+      "check": false,
       "percentage": 95
     },
     {
@@ -112,7 +112,7 @@
       "name": "TAB",
       "units": 336000,
       "principal": false,
-      "check": true,
+      "check": false,
       "percentage": 0
     }
   ],
